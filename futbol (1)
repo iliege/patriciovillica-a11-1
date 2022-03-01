@@ -1,0 +1,228 @@
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="Root\assets\styles\styles_patricio_villicaña.css">
+        <title>Futbol</title>
+    </head>
+
+    <body>
+
+
+        <table>
+            <tr>
+                <td>
+                    <nav>
+                        <ul>
+                            <li>
+                                <a href="home.html">leo Messi</a>
+                            </li>
+                            <li>
+                                <a href="Tema2.html">Neymar</a>
+                            </li>
+                            <li>
+                                <a href="Tema1.html">mejores jugadores</a>
+                            </li>
+                            <li>
+                                <a href="Tema3.html"> cristiano </a>
+                            </li>
+                            <li>
+                                <a href="Tema4.html">Futbol</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </td>
+            </tr>
+        </table>
+
+        <h1>Futbol</h1>
+        <main>
+            <article>
+                <header>
+                    <hgroup>
+                        <h2>Lionel Messi<img src="Root\assets\Images\Balon.png"
+                        alt="" height="30" width="auto"></H2>
+                        <figure class="imagen">
+                        <img src="Root\assets\Images\GOAT.png" alt="" height="300" width="auto">
+                        </figure>
+                        <h4>28/02/22</h4>
+                    </hgroup>
+                </header>
+                <div>
+                    <H3>¿Quién es Messi?
+                    </H3>
+                    <p>
+                        Lionel Andrés Messi, más conocido como Leo Messi, es un futbolista argentino que también posee la nacionalidad española desde el año 2005. Juega como delantero en el PSG de la Primera División de Francia y en la Selección de fútbol de Argentina, de la cual es también capitán.    
+                        </p>
+                    <figure>
+
+
+                    </figure>
+                    <p>
+                        Considerado con frecuencia el mejor jugador del mundo y uno de los mejores de todos los tiempos,​ es el único futbolista en la historia que ha ganado, entre otras distinciones, siete veces el Balón de Oro, seis premios de la FIFA al mejor jugador del mundo y seis Botas de Oro.   
+                        </p>
+                </div>
+                <footer>
+                    <div>
+                        <span>Patricio Villicaña Guerrero</span> <a href="http://miredsocial.com/nombredelautor"
+                            target="_blank">pvillicanag@colegioalamos.edu.mx</a>
+                    </div>
+                    <!-- fin datos del autor -->
+                    <!-- bibliografía -->
+                    <blockquote>
+                        <cite><q> https://es.wikipedia.org/wiki/Lionel_Messi#:~:text=Considerado%20con%20frecuencia%20el%20mejor,se%20convirti%C3%B3%20en%20el%20primer </cite></q></blockquote>
+                </footer>
+            </article>
+
+            <article>
+                <header>
+                    <hgroup>
+                        <h2>meymar jr.<img src="Root\assets\Images\Balon.png"
+                        alt="" height="30" width="auto"></h2>
+                        <figure class="imagen">
+                        <img src="Root\assets\Images\LEWA.png" alt="" height="300" width="auto">
+                        </figure>
+                        <h4>128/02/2022</h4>
+                    </hgroup>
+                </header>
+
+                <div>
+                    <H3>¿Quien es neymar?</H3>
+                    <p>
+                        Futbolista
+                        Neymar combinó su amor por el fútbol sala con el fútbol callejero y desde muy pequeño llamaba la atención de grandes equipos de fútbol. Su ídolo es el también futbolista Robinho.
+                        
+                        En 2003, se trasladó con su familia a São Vicente, donde comenzó a jugar para el equipo juvenil Portuguesa Santista. 
+                        </p>
+                    <p></p>
+                </div>
+                <footer>
+                    <div>
+                        <span>Patricio Villicaña</span> <a href="http://miredsocial.com/nombredelautor"
+                            target="_blank">pvillicanag@colegioalamos.edu.mx</a>
+                    </div>
+                    <!-- fin datos del autor -->
+                    <!-- bibliografía -->
+                    <blockquote>
+                        <cite><q>https://www.buscabiografias.com/biografia/verDetalle/9791/Neymar .</cite></blockquote>
+                </footer>
+            </article>
+
+            <article>
+                <header>
+                    <hgroup>
+                        <h2>Top 10 jjugadores<img src="Root\assets\Images\Balon.png"
+                            alt="" height="30" width="auto"></h2>
+                        <h4>28/02/2022</h4>
+                    </hgroup>
+                </header>
+
+                <div>
+                    <H3>los mejores jugadores de la historia</H3>
+                            <figure class="imagen">
+                            <img src="Root\assets\Images\MC.png" alt="" height="300" width="auto">
+                            </figure>
+                    <ol reversed>
+                        <li>Lionel messi </li>
+                        <li>Cristiano</li>
+                        <li>Pele </li>
+                        <li>Diego Armando Maradona</li>
+                        <li>Ronaldinho</li>
+                        <li>Johan Cruyff</li>
+                        <li>Xavi</li>
+                        <li>Zinedine Zidane</li>
+                        <li>Ronaldo Nazairo</li>
+                        <li>Iniesta</li>
+                    </ol>
+                </div>
+                <footer>
+                    <div>
+                        <span>Patricio Villicaña</span> <a href="http://miredsocial.com/nombredelautor"
+                            target="_blank">pvillicanag@colegioalamos.edu.mx</a>
+                    </div>
+                    <!-- fin datos del autor -->
+                    <!-- bibliografía -->
+                    <blockquote>
+                        <cite><q>https://www.neogol.com/los-mejores-jugadores-de-la-historia-del-futbol/  </cite></q>
+
+
+                </footer>
+            </article>
+
+            <article>
+                <header>
+                    <H2>Cristiano<img src="Root\assets\Images\Balon.png"
+                        alt="" height="30" width="auto"></H2>
+                    <H4>28/02/22</H4>
+                </header>
+                <Div>
+                    <h3>QUIEN ES CRISTIANO?
+                    </h3>
+                    <p>Se crio en un barrio obrero y a los diez años lo descubrió el Sporting de Lisboa, Cristiano Ronaldo jugaba por entonces en el modesto Andorinha, club de su Funchal natal y en el que su padre trabajaba como utillero. Cuatro años después, acordó con su madre dedicarse exclusivamente al fútbol.
+
+                        Después Ronaldo pasó al Nacional y seis meses después este realiza la cesión de los derechos de Cristiano. En 2001, el técnico del primer equipo, el rumano Laszlo Boloni, quiso que debutara ese mismo año, pero un test lo desaconsejó por no estar lo suficientemente trabajado. Un año después lo hacía debutar en la previa de la Champions ante el Inter.
+                        
+                        </p>
+                    <figure>
+                        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=8EJRYCRXZaA "
+                            title="YouTube video Champions" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                    </figure>
+                </Div>
+                <footer>
+                    <div>
+                        <span>Patricio Villicaña</span> <a href="http://miredsocial.com/nombredelautor"
+                            target="_blank">pvillicanag@colegioalamos.edu.mx</a>
+                    </div>
+                    <!-- fin datos del autor -->
+                    <!-- bibliografía -->
+                    <blockquote>
+                        <cite><q>https://www.buscabiografias.com/biografia/verDetalle/9680/Cristiano%20Ronaldo </blockquote></cite></q>
+                        
+                        
+                </footer>
+            </article>
+           
+            <blockquote>
+                <p></p>
+        </footer>
+
+    <!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script></body> 
